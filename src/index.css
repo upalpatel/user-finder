@@ -16,15 +16,15 @@ body {
 button {
   font: inherit;
   cursor: pointer;
-  background-color: #800040;
+  background-color: #005780;
   color: white;
-  border: 1px solid #800040;
+  border: 1px solid #005780;
   border-radius: 8px;
   padding: 0.75rem 2rem;
 }
 
 button:hover,
 button:active {
-  background-color: #630032;
-  border-color: #630032;
+  background-color: #003f63;
+  border-color: #003f63;
 }
